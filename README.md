@@ -11,5 +11,7 @@ The results are shown in the Table. It is clear to see a significant improvement
 
 ### Reference
 [1] Ziwei Fan, Zhiwei Liu, Jiawei Zhang, Yun Xiong, Lei Zheng, and Philip S. Yu. 2021.   Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer. CoRR abs/2108.06625 (2021).
+
 [2] Walid Krichene and Steffen Rendle. 2020. On Sampled Metrics for Item Recom-mendation. InKDD 2020. ACM, 1748–1757.
+
 [3] Ruihong Qiu, Zi Huang, and Hongzhi Yin. 2021.  Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation. CoRR abs/2109.00368 (2021).
