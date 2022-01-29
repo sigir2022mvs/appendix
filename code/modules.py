@@ -57,7 +57,6 @@ class SelfAttention(nn.Module):
 
         self.attn_dropout = nn.Dropout(args.attention_probs_dropout_prob)
 
-        # 做完self-attention 做一个前馈全连接 LayerNorm 输出
         self.dense = nn.Linear(args.hidden_size, args.hidden_size)
         self.LayerNorm = LayerNorm(args.hidden_size, eps=1e-12)
         self.out_dropout = nn.Dropout(args.hidden_dropout_prob)
